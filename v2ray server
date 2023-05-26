@@ -7,3 +7,6 @@ vless://84ace542-0948-4002-afee-1011b390028d@foxnim.cam:80?path=%2F%40foxnim&sec
 vless://d3c11d88-0891-4aee-8e7d-ef02c3b0e6f2@109.172.45.198:56893?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#F3(@Outline_Vpn)
 
 vless://d3c11d88-0891-4aee-8e7d-ef02c3b0e6f2@109.172.45.198:56893?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#F4(@Outline_Vpn)
+
+
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@mt22.nabsk.com:443?path=users%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=cdn.appsflyer.com#%F0%9F%87%AE%F0%9F%87%B7MetaVPN
